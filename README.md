@@ -1,20 +1,20 @@
 # Notes
 
 * ## Web Developer Essentials
-  * #### HTTP
-  * #### REST
-  * #### Linux
+  * [x] HTTP
+  * [x] REST
+  * [x] Linux
 
 * ## Phase 1 BDT
-  * #### Git
-  * #### QPrep Java
-  * #### QCalc
-  * #### XUrl
+  * [x] Git
+  * [ ] QPrep Java
+  * [ ] QCalc
+  * [ ] XUrl
 
 * ## Phase 2 BDT
-  * #### QMoney
-  * #### XCommerce
+  * [ ] QMoney
+  * [ ] XCommerce
 
 * ## Phase 3 BDT
-  * #### QEats
-  * #### XQuiz
+  * [ ] QEats
+  * [ ] XQuiz
