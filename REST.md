@@ -94,8 +94,7 @@ curl -X POST https://www.metaweather.com/api/location/search/?query=san
 * What’s an API, how do you ‘hit’ an API? How do you query APIs?
 * What are three things you’ll keep in mind when creating a REST API?
 
-
-
+<hr>
 
 
 
